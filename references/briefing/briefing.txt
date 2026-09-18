@@ -1,0 +1,169 @@
+# Briefing — Alianças Moedas Bauru
+
+## 1. Negócio e objetivo
+
+- **Nome da empresa:** Alianças Moedas Bauru.
+- **O que ofereço:** Fabricação e venda de alianças produzidas a partir de moedas, com diferentes modelos, larguras, acabamentos e tamanhos.
+- **Problema que resolvo:** Ofereço uma alternativa bonita, simbólica e mais acessível às alianças tradicionais, mantendo o significado de compromisso, namoro, noivado, casamento e bodas.
+- **Objetivo principal do site:** Aumentar as vendas por meio da apresentação dos modelos e da geração de contatos pelo WhatsApp.
+- **Conversão principal:** Clique no botão “Solicitar orçamento pelo WhatsApp”.
+- **Conversões secundárias:**  
+  - Visualização do catálogo;
+  - Solicitação de medidas;
+  - Consulta de preço e prazo;
+  - Pedido de localização;
+  - Agendamento de atendimento presencial;
+  - Avaliação no Google;
+  - Compartilhamento dos produtos.
+- **Como medirei o sucesso:** Número de contatos no WhatsApp, orçamentos solicitados, vendas realizadas, taxa de conversão do catálogo e crescimento das visitas vindas do Google.
+- **Prazo, orçamento e restrições:** Quero começar com um site simples, profissional, responsivo e de baixo custo. Inicialmente, não preciso de um e-commerce completo; o atendimento e o fechamento da venda continuarão pelo WhatsApp.
+
+Atualmente, minha presença digital está concentrada no Instagram, no WhatsApp e no Google Maps. Referências públicas também associam a empresa ao endereço na Rua Maria Bigheti Limão, em Bauru, e ao telefone (14) 99860-2872. Essas informações deverão ser confirmadas antes da publicação do site. ([Guia Fácil](https://guiafacil.com/site/aliancas-moedas-bauru/bauru/sp/89158724), [Solutudo](https://www.solutudo.com.br/empresas/sp/bauru/joias-e-bijouterias/aliancas-bauru-moedas-432001))
+
+## 2. Público
+
+- **Público principal:** Casais de Bauru e região que procuram alianças de compromisso, namoro, noivado, casamento ou renovação de votos.
+- **Faixa etária:** Aproximadamente 18 a 45 anos.
+- **Contexto:** Pessoas pesquisando modelos, preços e formas de comprar alianças, geralmente pelo celular.
+- **Necessidades:** Encontrar um produto bonito, resistente, acessível e com atendimento confiável.
+- **Dores e objeções:**  
+  - Medo de comprar uma peça de baixa qualidade;
+  - Dúvidas sobre a durabilidade da moeda;
+  - Insegurança para escolher o tamanho;
+  - Receio de receber um produto diferente das fotos;
+  - Dúvidas sobre prazo de fabricação e entrega;
+  - Comparação com alianças de aço, prata, ouro e lojas maiores.
+- **O que gera confiança:** Fotos reais, vídeos do processo de fabricação, avaliações de clientes, endereço, telefone, explicação clara sobre o material, garantia, política de troca e atendimento personalizado.
+- **Dispositivo principal:** Celular, especialmente acesso pelo Instagram, Google e WhatsApp.
+- **Públicos secundários:**  
+  - Pessoas comprando alianças para presente;
+  - Casais de outras cidades do interior de São Paulo;
+  - Clientes que desejam substituir ou renovar alianças;
+  - Pessoas que procuram alianças para bodas;
+  - Familiares ou amigos que ajudam na compra.
+
+## 3. Posicionamento e marca
+
+- **Proposta de valor:** “Transformamos moedas em alianças com significado, personalidade e preço acessível para marcar histórias de amor.”
+- **Por que escolher minha marca:**  
+  - Fabricação especializada em alianças de moedas;
+  - Atendimento direto e próximo;
+  - Preços mais acessíveis;
+  - Possibilidade de escolher modelos e tamanhos;
+  - Conhecimento do público de Bauru e região;
+  - Produto com história e personalidade.
+- **Concorrentes e referências:** Joalherias tradicionais de Bauru, lojas de alianças de aço, prata e ouro, vendedores de marketplaces e empresas especializadas em alianças de moedas. Como referência de mercado, existem lojas locais com catálogo online, orçamento rápido e atendimento por WhatsApp. ([Casa do Joalheiro Bauru](https://casadojoalheirobauru.com.br/), [Loja das Alianças](https://lojaaliancas.com.br/quem-somos), [Sua Aliança](https://sualianca.com.br/aliancas-de-liga-da-moeda/bauru-sp))
+- **Referências visuais que agradam:** Fotos reais das alianças, imagens de casais, detalhes do acabamento, mãos produzindo as peças, tons metálicos, dourado, prata, preto e elementos que transmitam amor e durabilidade.
+- **O que deve ser evitado:** Aparência genérica de marketplace, excesso de luxo inacessível, fotos muito artificiais, promessas exageradas e visual poluído.
+- **Personalidade da marca:** Próxima, confiável, artesanal, romântica e acessível.
+- **Tom de voz:** Simples, acolhedor, transparente e consultivo. Quero falar como uma pessoa que entende do produto e ajuda o casal a escolher.
+- **Materiais existentes:** Já possuo Instagram, fotos e possivelmente vídeos dos produtos. Também tenho a ficha do negócio no Google. Será necessário organizar e melhorar esse material para o site.
+- **Palavras e promessas proibidas:** Não quero prometer durabilidade absoluta, entrega imediata ou qualidade equivalente ao ouro sem explicar corretamente o material. Também não quero usar um tom elitista ou agressivo contra concorrentes.
+
+## 4. Conteúdo e páginas
+
+O site deverá ter:
+
+1. **Página inicial**
+   - Apresentação da marca;
+   - Principais modelos;
+   - Benefícios das alianças de moedas;
+   - Fotos reais;
+   - Depoimentos;
+   - Botões para WhatsApp e localização.
+
+2. **Catálogo de modelos**
+   - Fotos;
+   - Largura;
+   - Tipo de acabamento;
+   - Formato;
+   - Faixa de preço;
+   - Opções de tamanho;
+   - Prazo de fabricação;
+   - Botão para pedir orçamento.
+
+3. **Como funciona**
+   - Escolha do modelo;
+   - Definição dos tamanhos;
+   - Confirmação do pedido;
+   - Fabricação;
+   - Retirada ou entrega.
+
+4. **Guia de medidas**
+   - Como medir o dedo;
+   - Cuidados para escolher o tamanho;
+   - Orientação para quem não sabe a medida;
+   - Aviso de que o atendimento pelo WhatsApp pode ajudar.
+
+5. **Sobre a empresa**
+   - História da loja;
+   - Processo artesanal;
+   - Atendimento em Bauru;
+   - Diferenciais da fabricação.
+
+6. **Depoimentos**
+   - Avaliações de clientes;
+   - Fotos autorizadas de casais;
+   - Prints de mensagens, quando houver autorização.
+
+7. **Perguntas frequentes**
+   - As alianças são feitas de qual material?
+   - Como escolher o tamanho?
+   - Qual é o prazo?
+   - Existe garantia?
+   - Posso escolher modelos diferentes para cada pessoa?
+   - Vocês fazem gravação?
+   - Há retirada em Bauru?
+   - Vocês entregam para outras cidades?
+
+8. **Contato e localização**
+   - WhatsApp;
+   - Telefone;
+   - Endereço;
+   - Horário de atendimento;
+   - Mapa;
+   - Instagram;
+   - Formulário simples de orçamento.
+
+O conteúdo será aprovado por mim, como proprietário. Ainda preciso reunir fotos melhores, preços atualizados, informações de garantia, política de troca, formas de pagamento e depoimentos autorizados.
+
+Inicialmente, não preciso de blog, área restrita ou vários idiomas. Também não preciso de checkout online na primeira versão. O site deve funcionar como catálogo e canal de vendas pelo WhatsApp.
+
+As informações legais necessárias são:
+
+- Política de privacidade;
+- Aviso sobre cookies, se houver ferramentas de rastreamento;
+- Termos de uso;
+- Política de troca e garantia;
+- Dados da empresa;
+- Informações sobre coleta e uso de dados conforme a LGPD.
+
+## 5. Conversão e operação
+
+- **Chamada principal:** “Peça seu orçamento pelo WhatsApp”.
+- **Chamadas secundárias:** “Veja os modelos”, “Descubra seu tamanho”, “Conheça nossa loja” e “Como chegar”.
+- **Destino dos contatos:** WhatsApp comercial. O formulário também deverá encaminhar os dados para o WhatsApp ou para meu e-mail.
+- **Dados coletados:** Nome, cidade, telefone, modelo de interesse, tamanho aproximado e data desejada para receber o produto.
+- **Consentimento:** O formulário deverá informar que os dados serão usados somente para responder ao orçamento e ao atendimento solicitado.
+- **Ferramentas a integrar:** WhatsApp, Google Maps, Instagram, Google Business Profile e Google Analytics ou ferramenta semelhante.
+- **Forma de atendimento:** Eu ou alguém da equipe responderá aos clientes pelo WhatsApp, explicará os modelos, confirmará medidas, enviará valores e finalizará o pedido.
+- **Administração do site:** Inicialmente, prefiro que o site tenha poucas informações editáveis. Atualizações de preços, fotos e modelos poderão ser feitas por mim ou pelo responsável pelo desenvolvimento.
+
+## 6. Requisitos técnicos
+
+- **Domínio:** Ainda não possuo domínio. Gostaria de avaliar opções como `aliancasmoedasbauru.com.br` ou `aliancasbaurumoedas.com.br`.
+- **Hospedagem:** Preciso de uma hospedagem segura, estável e de baixo custo.
+- **Tecnologia:** Pode ser utilizado WordPress ou outra solução simples que permita atualizar textos, fotos e catálogo sem depender sempre de um programador.
+- **SEO local:** É prioridade aparecer em buscas como:
+  - Alianças de moedas em Bauru;
+  - Alianças baratas em Bauru;
+  - Alianças para namoro em Bauru;
+  - Alianças de casamento em Bauru;
+  - Alianças de moeda perto de mim.
+- **Desempenho:** O site deve carregar rapidamente, principalmente em celulares e redes móveis.
+- **Responsividade:** A prioridade é celular, mas o site também deve funcionar bem em computador e tablet.
+- **Acessibilidade:** Textos legíveis, bom contraste, imagens com descrição, botões grandes e navegação simples.
+- **Segurança:** HTTPS, proteção do formulário, backups e atualização regular da plataforma.
+- **Offline/PWA:** Não é necessário.
+- **Idiomas:** Apenas português do Brasil.
+- **Objetivo da primeira versão:** Criar uma vitrine digital confiável, encontrada no Google e capaz de transformar visitantes em conversas e pedidos no WhatsApp.

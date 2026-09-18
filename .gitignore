@@ -1,0 +1,13 @@
+# Dependencies and generated artifacts
+node_modules/
+.next/
+out/
+coverage/
+*.tsbuildinfo
+
+# Local configuration
+.env.local
+.env*.local
+
+# Visual references from third parties: use for inspiration only, never publish.
+references/insight/

@@ -1,0 +1,27 @@
+{
+  "version": 1,
+  "world": "classic-jeweler-atelier",
+  "mode": "persuade",
+  "tokens": {
+    "bgWoodDark": "#17120F",
+    "bgParchment": "#E8DFC8",
+    "bgCardDark": "#221B17",
+    "goldPrimary": "#D4AF37",
+    "goldDark": "#9A7B2C",
+    "textLight": "#F5EFE6",
+    "textDark": "#2C221E"
+  },
+  "type": {
+    "display": "Cinzel",
+    "accent": "Playfair Display",
+    "body": "Montserrat"
+  },
+  "signature": [
+    "centered AMB medallion",
+    "engraved bronze call-to-action",
+    "parchment process strip",
+    "double-framed jewelry showcases",
+    "riveted leather FAQ",
+    "banker-lamp closing scene"
+  ]
+}
